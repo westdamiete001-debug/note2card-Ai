@@ -1,0 +1,6 @@
+{
+  "name": "Note2Card",
+  "description": "A modern AI-powered study assistant that transforms notes and PDF documents into summaries, flashcards, quizzes, and interactive study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
